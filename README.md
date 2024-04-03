@@ -9,3 +9,8 @@ identified only seven essential features for prediction. Random Forest cross-val
 score of 98.7% which improved a bit after feature selection. These techniques provide a reliable and 
 efficient method for credit card customer segmentation and group prediction. This offers valuable 
 insights for targeted marketing and risk management strategies, tailored to specific customer profiles
+
+
+
+![image](https://github.com/Leonard250/-Credit-card-customer-segmentation-and-prediction/assets/141337656/e7cbc335-1063-44f1-85e6-da538c2935d4)
+
