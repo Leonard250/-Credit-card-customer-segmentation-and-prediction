@@ -12,5 +12,8 @@ insights for targeted marketing and risk management strategies, tailored to spec
 
 
 
-![image](https://github.com/Leonard250/-Credit-card-customer-segmentation-and-prediction/assets/141337656/e7cbc335-1063-44f1-85e6-da538c2935d4)
+![image](https://github-com.cmu.idm.oclc.org/Leonard250/-Credit-card-customer-segmentation-and-prediction/assets/141337656/e7cbc335-1063-44f1-85e6-da538c2935d4)
 
+DEPLOYMENT
+
+We deployed the above model on the app interface created using Flask.
